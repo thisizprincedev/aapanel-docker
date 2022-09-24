@@ -1,1 +1,4 @@
 FROM aapanel/aapanel:lamp
+EXPOSE 80:81
+EXPOSE 7800
+EXPOSE 8889
