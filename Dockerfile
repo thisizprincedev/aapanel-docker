@@ -1,1 +1,1 @@
-FROM aapanel/aapanel:lib
+FROM aapanel/aapanel:lamp
